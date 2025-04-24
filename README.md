@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zulfiqarahmed4
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning java and machine learning
+- 👀 I’m Full stack web developer
+- 🌱 I’m currently learning cybersecurity and machine learning.
 - 💞️ I’m looking to collaborate on java
 - 📫 How to reach me ...gmail zulfiqarzullu@gmail.com
 - 😄 Pronouns: ...
